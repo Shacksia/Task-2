@@ -2,6 +2,7 @@
 #Hardware 
 #Input device:
 ==========================================
+
 1.Keyboard
 2.Mouse
 3.Scanner
@@ -12,8 +13,10 @@
 8.Trackball
 9.Gamepad
 10.Barcode reader 
+
 #Output device:
 ==========================================
+
 1.Printer
 2.Moniter
 3.Loud speaker 
@@ -24,9 +27,11 @@
 8.Gps
 9.Mother board 
 10.Modem
+
 #Software 
 #Application software :
 ==========================================
+
 1.Spread sheet 
 2.Word processor 
 3.Microsoft Word 
@@ -37,8 +42,10 @@
 8.Photoshop
 9.Microsoft office 
 10.Skype
+
 #System software :
 ==========================================
+
 1.Windows
 2.Mac OS
 3.Chrome OS
@@ -49,4 +56,4 @@
 8.Playstation system software 
 9.Xbox system software 
 10.Programming language translator 
-3.
+
